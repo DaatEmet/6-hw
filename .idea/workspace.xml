@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59fc620f-7121-48fd-b46c-3ce9b05c6f6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+  </component>
+  <component name="ProjectId" id="1husqKU1x8atjDrlAp0MlUhoHRt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59fc620f-7121-48fd-b46c-3ce9b05c6f6f" name="Default Changelist" comment="" />
+      <created>1600872500604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600872500604</updated>
+      <workItem from="1600872504358" duration="9650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="378" width="575" height="357" key="#Notifications" timestamp="1600889310431">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="703" y="378" width="575" height="357" key="#Notifications/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600889310431" />
+    <state x="779" y="311" width="447" height="491" key="FileChooserDialogImpl" timestamp="1600889216503">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="447" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600889216503" />
+    <state x="787" y="474" width="417" height="165" key="Github.CreateGistDialog" timestamp="1600884369370">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="787" y="474" width="417" height="165" key="Github.CreateGistDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600884369370" />
+    <state x="857" y="453" width="277" height="207" key="Github.ShareDialog" timestamp="1600889286526">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="857" y="453" width="277" height="207" key="Github.ShareDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600889286526" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1600889266799">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600889266799" />
+    <state x="686" y="162" width="620" height="783" key="find.popup" timestamp="1600884239743">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="686" y="162" width="620" height="783" key="find.popup/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600884239743" />
+    <state x="829" y="347" width="442" height="419" key="svn.repositoryBrowser" timestamp="1600889124112">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="829" y="347" width="442" height="419" key="svn.repositoryBrowser/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600889124112" />
+    <state x="785" y="324" width="403" height="472" key="svn4idea.import.options" timestamp="1600887898500">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="785" y="324" width="403" height="472" key="svn4idea.import.options/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600887898500" />
+    <state x="392" y="302" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1600888843078">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="392" y="302" key="vcs.ApplyPatchDifferentiatedDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600888843078" />
+  </component>
+</project>
